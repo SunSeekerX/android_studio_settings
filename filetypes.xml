@@ -4,6 +4,9 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="wallet" type="PLAIN_TEXT" />
+      <mapping pattern="lib" type="PLAIN_TEXT" />
+      <mapping pattern="wallet-wal" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
