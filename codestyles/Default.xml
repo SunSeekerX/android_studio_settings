@@ -1,4 +1,6 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
@@ -17,6 +19,9 @@
       </value>
     </option>
   </JetCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
