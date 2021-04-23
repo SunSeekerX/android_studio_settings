@@ -8,6 +8,7 @@
       <mapping pattern="put-bussiness-here" type="PLAIN_TEXT" />
       <mapping pattern="lib" type="PLAIN_TEXT" />
       <mapping pattern="wallet-wal" type="PLAIN_TEXT" />
+      <mapping ext="model" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
