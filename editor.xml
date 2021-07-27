@@ -1,15 +1,9 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
+    <option name="FONT_SIZE" value="15" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-  </component>
-  <component name="JetEditorOptions">
-    <option name="donTShowConversionDialog" value="true" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.java; *.kt; *.gradle" />
   </component>
 </application>
