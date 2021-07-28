@@ -1,4 +1,18 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.lvyii.com" />
+          <option name="userName" value="tang" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.yoouu.cn" />
+          <option name="userName" value="tang" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
