@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.123.194:33445" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-04T16:17:15.447578400Z" />
+        <name value="Xiaomi Mi Note 3" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.123.240:33445" />
           </Key>
         </key>
