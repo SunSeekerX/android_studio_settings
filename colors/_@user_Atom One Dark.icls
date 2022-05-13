@@ -4,7 +4,7 @@
     <property name="created">2022-05-13T10:13:20</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.14</property>
-    <property name="modified">2022-05-13T10:15:56</property>
+    <property name="modified">2022-05-13T10:43:11</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -1447,6 +1447,16 @@
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="12404b" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d9" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d9" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
