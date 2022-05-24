@@ -5,12 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.123.194:33445" />
+            <value value="192.168.100.41:33445" />
           </Key>
         </key>
-        <name value="Xiaomi Mi Note 3" />
-        <target value="Android 9.0" />
-        <api value="28" />
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
