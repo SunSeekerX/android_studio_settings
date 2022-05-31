@@ -1,0 +1,5 @@
+<application>
+  <component name="Emulator">
+    <option name="snapshotAutoDeletionPolicy" value="DELETE_AUTOMATICALLY" />
+  </component>
+</application>
