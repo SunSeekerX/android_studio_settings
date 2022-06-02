@@ -27,12 +27,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:5555" />
+            <value value="192.168.123.194:33445" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="Xiaomi Mi Note 3" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
