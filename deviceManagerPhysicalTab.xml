@@ -52,9 +52,9 @@
             <value value="127.0.0.1:5555" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="Xiaomi MI 9" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
