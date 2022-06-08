@@ -45,6 +45,17 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:5555" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
