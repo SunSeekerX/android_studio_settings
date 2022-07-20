@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="172.16.1.19:33445" />
+            <value value="192.168.123.240:33445" />
           </Key>
         </key>
         <name value="Xiaomi M2007J3SC" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.123.240:33445" />
+            <value value="172.16.1.19:33445" />
           </Key>
         </key>
         <name value="Xiaomi M2007J3SC" />
