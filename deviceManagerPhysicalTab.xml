@@ -5,12 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="91QECP85893B" />
+          </Key>
+        </key>
+        <name value="Meizu M5 Note" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.100.33:33445" />
           </Key>
         </key>
         <name value="Xiaomi M2007J3SC" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +32,7 @@
         </key>
         <name value="Xiaomi M2007J3SC" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +43,7 @@
         </key>
         <name value="Xiaomi M2007J3SC" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
