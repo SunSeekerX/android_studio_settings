@@ -92,6 +92,7 @@
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
+          <nt-symbol-settings />
           <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
