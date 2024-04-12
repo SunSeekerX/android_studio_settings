@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="idea.plugin.protoeditor" />
+        <option value="Docker" />
       </list>
     </option>
   </component>
