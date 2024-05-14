@@ -1,0 +1,127 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="45IVG6USL7NFNNXW" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22041216C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="T4W4ORS4PJZDFQWG" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22041216C" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.31.34:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="91QECP85893B" />
+          </Key>
+        </key>
+        <name value="Meizu M5 Note" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.100.33:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.16.1.19:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.123.240:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.123.24:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22041216C" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.123.176:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.0.0.5:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.123.113:33445" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
