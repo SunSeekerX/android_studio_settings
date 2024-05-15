@@ -4,5 +4,6 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_SIZE_2D" value="14.0" />
     <option name="FONT_FAMILY" value="Hack Nerd Font" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
