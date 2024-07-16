@@ -5,6 +5,7 @@
     <option name="ENABLE_SECOND_REFORMAT" value="true" />
   </component>
   <component name="CodeVisionSettings">
+    <option name="defaultPosition" value="Right" />
     <option name="enabled" value="false" />
   </component>
   <component name="EditorSettings">
