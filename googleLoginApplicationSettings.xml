@@ -6,10 +6,10 @@
         <entry key="sunseekerxi@gmail.com">
           <value>
             <set>
-              <option value="Android Vitals" />
-              <option value="Firebase" />
-              <option value="Gemini" />
               <option value="User Info" />
+              <option value="Gemini" />
+              <option value="Firebase" />
+              <option value="Android Vitals" />
             </set>
           </value>
         </entry>
