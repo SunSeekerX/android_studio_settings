@@ -450,13 +450,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
+            <root url="jar://D:/app/code/android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-34/android.jar!/" type="simple" />
-            <root url="file://D:/app/code/Android/sdk/platforms/android-34/data/res" type="simple" />
+            <root url="jar://D:/app/code/android/sdk/platforms/android-34/android.jar!/" type="simple" />
+            <root url="file://D:/app/code/android/sdk/platforms/android-34/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -464,7 +464,7 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://D:/app/code/Android/sdk/sources/android-34" type="simple" />
+            <root url="file://D:/app/code/android/sdk/sources/android-34" type="simple" />
           </root>
         </sourcePath>
       </roots>
