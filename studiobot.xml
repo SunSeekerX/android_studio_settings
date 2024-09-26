@@ -1,7 +1,7 @@
 <application>
   <component name="StudioBotSettings">
     <option name="acceptedTermsVersion" value="3" />
-    <option name="contextSharingMode" value="AlwaysShare" />
+    <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
