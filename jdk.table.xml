@@ -253,7 +253,7 @@
     <jdk version="2">
       <name value="11" />
       <type value="JavaSDK" />
-      <version value="Oracle OpenJDK 11.0.22" />
+      <version value="Oracle OpenJDK 11.0.20" />
       <homePath value="C:/Program Files/Java/jdk-11" />
       <roots>
         <annotationsPath>
@@ -417,19 +417,41 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="Android API 34, extension level 7 Platform" />
-      <type value="Android SDK" />
-      <homePath value="D:/app/code/Android/sdk" />
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="Oracle OpenJDK 1.8.0_381" />
+      <homePath value="C:/Program Files/Java/jdk-1.8" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-34/android.jar!/" type="simple" />
-            <root url="file://D:/app/code/Android/sdk/platforms/android-34/data/res" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -437,7 +459,34 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://D:/app/code/Android/sdk/sources/android-34" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/src.zip!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk-1.8/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 34, extension level 7 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:/app/code/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/app/code/android/sdk/platforms/android-34/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/app/code/android/sdk/platforms/android-34/android.jar!/" type="simple" />
+            <root url="file://D:/app/code/android/sdk/platforms/android-34/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/app/code/android/sdk/sources/android-34" type="simple" />
           </root>
         </sourcePath>
       </roots>
@@ -450,13 +499,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
+            <root url="jar://D:/app/code/android/sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
-            <root url="file://D:/app/code/Android/sdk/platforms/android-33/data/res" type="simple" />
+            <root url="jar://D:/app/code/android/sdk/platforms/android-33/android.jar!/" type="simple" />
+            <root url="file://D:/app/code/android/sdk/platforms/android-33/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -464,7 +513,7 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://D:/app/code/Android/sdk/sources/android-33" type="simple" />
+            <root url="file://D:/app/code/android/sdk/sources/android-33" type="simple" />
           </root>
         </sourcePath>
       </roots>
@@ -473,17 +522,17 @@
     <jdk version="2">
       <name value="Android API 31 Platform" />
       <type value="Android SDK" />
-      <homePath value="D:/app/code/Android/sdk" />
+      <homePath value="D:/app/code/android/sdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
+            <root url="jar://D:/app/code/android/sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://D:/app/code/Android/sdk/platforms/android-31/android.jar!/" type="simple" />
-            <root url="file://D:/app/code/Android/sdk/platforms/android-31/data/res" type="simple" />
+            <root url="jar://D:/app/code/android/sdk/platforms/android-31/android.jar!/" type="simple" />
+            <root url="file://D:/app/code/android/sdk/platforms/android-31/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -491,7 +540,7 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://D:/app/code/Android/sdk/sources/android-31" type="simple" />
+            <root url="file://D:/app/code/android/sdk/sources/android-31" type="simple" />
           </root>
         </sourcePath>
       </roots>
