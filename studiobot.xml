@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1737486458300">What does the error message &quot;Type expected&quot; mean?</historyEntry>
         <historyEntry timestamp="1737445755103">Explain: 您的会员已过期，请前往续费
 com.kuaiyan.aikuaiyan.http.exception.ResultException: 您的会员已过期，请前往续费
 at com.kuaiyan.aikuaiyan.http.model.RequestHandler.requestSucceed(RequestHandler.kt:149)
