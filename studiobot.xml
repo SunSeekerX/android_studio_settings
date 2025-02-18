@@ -5,6 +5,13 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1739869425785">Explain this log entry: ijkmp_get_msg: FFP_MSG_SEEK_COMPLETE with tag IJKMEDIA</historyEntry>
+        <historyEntry timestamp="1739869301227">Explain this log entry: update {(0,0)(fillxfill) gr=CENTER sim={adjust=resize forwardNavigation} ty=APPLICATION fmt=TRANSPARENT
+  fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+  pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+  bhv=DEFAULT
+  fitSides=} by setView with tag ViewRootImpl</historyEntry>
+        <historyEntry timestamp="1739868955780">Explain this log entry: FFP_MSG_BUFFERING_START: with tag IJKMEDIA</historyEntry>
         <historyEntry timestamp="1737486458300">What does the error message &quot;Type expected&quot; mean?</historyEntry>
         <historyEntry timestamp="1737445755103">Explain: 您的会员已过期，请前往续费
 com.kuaiyan.aikuaiyan.http.exception.ResultException: 您的会员已过期，请前往续费
