@@ -1,0 +1,12 @@
+<application>
+  <component name="StudioFlags">
+    <option name="data">
+      <map>
+        <entry key="compose.preview.generate.preview.action" value="true" />
+        <entry key="compose.transform.ui.with.ai" value="false" />
+        <entry key="studiobot.attachments" value="false" />
+        <entry key="studiobot.chat.enable.context.attachment" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
