@@ -9,6 +9,7 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="ide.instant.shutdown" value="false" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
+    <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
