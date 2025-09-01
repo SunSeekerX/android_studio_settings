@@ -1,0 +1,9 @@
+<application>
+  <component name="AndroidLogcatSettings">
+    <option name="ignoredTags">
+      <set>
+        <option value="gralloc4" />
+      </set>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>
