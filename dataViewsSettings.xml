@@ -1,0 +1,9 @@
+<application>
+  <component name="DataGridAppearanceSettingsImpl" version="1">
+    <option name="striped-table" value="true" />
+    <option name="use-custom-font" value="true" />
+    <option name="grid-font-family" value="GenSenRounded2 TC B" />
+    <option name="grid-font-size" value="13" />
+    <option name="grid-line-spacing" value="1.2" />
+  </component>
+</application>
