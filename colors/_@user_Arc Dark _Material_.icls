@@ -1,0 +1,43 @@
+<scheme name="_@user_Arc Dark (Material)" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2025.1.2.13</property>
+    <property name="originalScheme">Arc Dark (Material)</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="98C379" />
+    <option name="FILESTATUS_DELETED" value="59626F" />
+    <option name="FILESTATUS_HIJACKED" value="C679DD" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9DA5B4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_MERGED" value="61AEEF" />
+    <option name="FILESTATUS_MODIFIED" value="E5C17C" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57B6C2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57B6C2" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="ABB2BF" />
+    <option name="FILESTATUS_SWITCHED" value="61AEEF" />
+  </colors>
+</scheme>

@@ -1,0 +1,26 @@
+<scheme name="_@user_Light" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2025.1.2.13</property>
+    <property name="originalScheme">Light</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.intellij</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="50A14E" />
+    <option name="FILESTATUS_DELETED" value="A0A1A7" />
+    <option name="FILESTATUS_HIJACKED" value="A626A4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9DA5B4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_MERGED" value="4078F2" />
+    <option name="FILESTATUS_MODIFIED" value="986801" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57B6C2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57B6C2" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="383A42" />
+    <option name="FILESTATUS_SWITCHED" value="4078F2" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+  </colors>
+</scheme>
